@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirtan Gajjar</h1>
-<h3 align="center">--- A passionate Back-End Developer from INDIA ---</h3>
-<img alt="Coding" height="260" width="965" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<h3 align="center">+++ A passionate Future(Software Development Engineer) from INDIA +++</h3>
+
+<p align="center">
+  <img alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+</P>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kirtan-g&label=Profile%20views&color=0e75b6&style=flat" alt="kirtan-g" /> </p>
 
 <p align="center"> - 🌱 I’m currently learning <strong>MongoDB, ExpressJS, ReactJS, and NodeJS</strong> - </p>
