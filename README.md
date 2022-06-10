@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtan Gajjar</h1>
-<h3 align="center">+++ A passionate Future(Software Development Engineer) from INDIA🇮🇳 +++</h3>
+<h3 align="center">+++ A Passionate Future(SDE) From INDIA +++</h3>
 <p align="center">
   <img alt="Coding" height="300" width="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 </P>
