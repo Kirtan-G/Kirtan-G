@@ -9,13 +9,15 @@
 
 <p align="center"> - 🌱 I’m currently learning <strong>MongoDB, ExpressJS, ReactJS, and NodeJS</strong> - </p>
 <p align="center"> - 💬 Ask me about <strong>MongoDB, ExpressJS, and NodeJS</strong> - </p>
+<p align="center"> - 👨‍💻 Portfolio:- <strong>https://kirtangajjar.epizy.com</strong> - </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/kirtan_g_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtan_g_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kirtan-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan-g" height="30" width="40" /></a>
+<a href="https://twitter.com/kirtan_g_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtan_g_" height="30" width="40" /></a>
 <a href="https://medium.com/@kirtan-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kirtan-g" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kirtan-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirtan-g" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kirtan_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kirtan_g" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
